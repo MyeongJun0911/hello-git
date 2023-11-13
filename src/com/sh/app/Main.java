@@ -11,7 +11,10 @@ public class Main {
 		System.out.println("Hello Git");
 		
 		new Dog().bark();
+<<<<<<< HEAD
 		new Cat().jump();
+=======
+>>>>>>> feature/animal
 	}
 
 }
