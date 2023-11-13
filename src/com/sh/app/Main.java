@@ -20,5 +20,9 @@ public class Main {
 		new Snake().crwal();
 		
 	}
+	
+	public void test() {
+		System.out.println("Main#test");
+	}
 
 }
