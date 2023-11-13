@@ -12,8 +12,13 @@ public class Main {
 		
 		new Dog().bark();
 <<<<<<< HEAD
+<<<<<<< HEAD
 		new Cat().jump();
 =======
+>>>>>>> feature/animal
+=======
+		new Cat().jump();
+		
 >>>>>>> feature/animal
 	}
 
