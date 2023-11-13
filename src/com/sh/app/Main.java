@@ -16,6 +16,10 @@ public class Main {
 		new Tiger().attack();
 		
 	}
+
+	public void abc(){
+		
+	}
 	
 	public void test() {
 		System.out.println("테스트");
