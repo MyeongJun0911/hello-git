@@ -2,6 +2,7 @@ package com.sh.app;
 
 import com.sh.animal.Cat;
 import com.sh.animal.Dog;
+import com.sh.animal.Tiger;
 
 public class Main {
 
@@ -11,15 +12,9 @@ public class Main {
 		System.out.println("Hello Git");
 		
 		new Dog().bark();
-<<<<<<< HEAD
-<<<<<<< HEAD
 		new Cat().jump();
-=======
->>>>>>> feature/animal
-=======
-		new Cat().jump();
+		new Tiger().attack();
 		
->>>>>>> feature/animal
 	}
 
 }
