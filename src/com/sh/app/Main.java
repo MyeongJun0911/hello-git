@@ -1,7 +1,7 @@
 package com.sh.app;
 
+
 import com.sh.animal.Bird;
-import com.sh.animal.Cat;
 import com.sh.animal.Dog;
 import com.sh.animal.Snake;
 import com.sh.animal.Tiger;
@@ -14,15 +14,17 @@ public class Main {
 		System.out.println("HELLO GIT");
 		
 		new Dog().bark();
-		new Cat().jump();
+
 		new Tiger().attack();
 		new Bird().fly();
 		new Snake().crwal();
-		
 	}
 	
 	public void test() {
 		System.out.println("Main#test");
+
+		System.out.println("Hello world");
+		System.out.println("Hello Git");
 	}
 
 }
