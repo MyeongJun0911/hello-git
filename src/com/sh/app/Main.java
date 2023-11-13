@@ -16,5 +16,9 @@ public class Main {
 		new Tiger().attack();
 		
 	}
+	
+	public void test() {
+		System.out.println("테스트");
+	}
 
 }
